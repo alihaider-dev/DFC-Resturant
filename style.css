@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+body img {
+  width: 30%;
+}
+.photo {
+  text-align: center;
+}
+button {
+  padding: 10px 30px;
+  background-color: chartreuse;
+  margin: 20px 0;
+}
+button a {
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
